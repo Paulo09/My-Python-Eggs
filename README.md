@@ -1,4 +1,4 @@
-Meus Ovos Python 🐍 😄
+Meus Ovos de Pascoa -  Python 🐍 😄
 Não me considero um programador. Eu crio esses pequenos programas como experimentos para brincar com Python ou para resolver problemas sozinho. Eu aceitaria com prazer sugestões de outras pessoas para melhorar, simplificar ou tornar o código mais eficiente. Se você quiser fazer algum comentário, sinta-se à vontade para me enviar um e-mail: craig@geekcomputers.co.uk.
 
 Este repositório contém uma coleção de scripts Python projetados para reduzir a carga de trabalho humana e servir como exemplos educacionais para iniciantes começarem a usar Python. A documentação do código está alinhada corretamente para visualização no Notepad++ 🗒️
